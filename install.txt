@@ -1,0 +1,4 @@
+Download the apk, then transfer apk file to android phone. 
+Enable downloading from other sources via your phone's settings.
+Once its transferred, just open the file and it should download to 
+the phone. 

@@ -1,0 +1,24 @@
+Produce is the name of the game.
+
+Mission is to use your population to reach 300 points of productivity.
+People gain points based on their worth, which is derived from their attributes, the P-L-A-C-E attributes.
+P is procreate, the ability to have and raise children effectively.
+L is laborer, the ability to exert basic motor functions for work.
+A is art, the ability to create and illustrate vibrant and colorful stories, through music, film or other works of art.
+C is for science, the ability to explore and understand different branches of science, fabricate and test theories.
+E is engineering, the ability to convert scientific theories into physical properties, thrugh machinery and 
+other engineering practices.
+
+
+When the game starts, you define the attributes of your first 4 people. You then start the simulation (play button), 
+time passes by in quarters of a year. Every year, after the total worth is added to the score, the simulation has 
+you check in with your population by updating the roster. When you update, different events in life can affect your 
+population; someone can learn more about an attribute of your choice, or you could unfortunately lose someone. 
+If you beat the goal of 300 you could go into the High scores list, but only the Top 10 stay, the rest are removed from the
+list.
+
+You can add to the population by having 1 member per M/F gender with at least 1 point to procreate. Kids will come in
+with skill points to add based on how many points the member has in the P attribute.
+
+**Highscore database currently offline, working on new database**
+
